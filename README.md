@@ -1,5 +1,5 @@
 # 🎯 Goals of this wiki
-The purpose of this wiki is to give newcomers all the **ESSENTIAL knowledge needed to switch to Linux as a workstation and nothing more**. It will also cover the additional productivity a Linux system could provide in a simple and digestible manner.
+The purpose of this wiki is to give newcomers all the **ESSENTIAL knowledge needed to switch to Linux as a workstation and nothing more**.
 
 <ins>Here are the core principles</ins> :
 - **Beginner-friendly** : The wiki is tailored for Windows and MacOS users who may be interested in using Linux as a workstation.
