@@ -7,4 +7,4 @@ The purpose of this wiki is to give newcomers all the **ESSENTIAL knowledge need
 * **Usability over philosophy** : I want to teach how to adopt Linux as a workstation and be productive, not how to embrace the free and open-source software movement, therefore, I am not biased towards proprietary software.
 
 # 📖 Wiki
-[You can access the wiki here.](https://github.com/XC1976/linux-workstation-introduction/wiki)
+[You can access the wiki here.](https://github.com/XC1976/linux-workstation-introduction/wiki/Welcome-!-%F0%9F%98%84)
